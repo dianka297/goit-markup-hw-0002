@@ -84,9 +84,7 @@ ul, ol {
   background-color: #404BBF;  
 }
 <!--Section2-->
-.advantages{
 
-}
 .advantages-title{
     font-weight: 500;
     font-size: 20px;
@@ -133,6 +131,7 @@ ul, ol {
     text-align: center;
     color: #434455;  
  }
+<!--Portfolio-->
 .portfolio{
 }
 .section-headline-portfolio{
