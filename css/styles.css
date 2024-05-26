@@ -52,7 +52,6 @@ ul, ol {
  font-style: normal;
 }
 
-.header-info-item,
 .adress-link{
     font-family: "Roboto", sans-serif;
     font-weight: 400;
@@ -104,14 +103,15 @@ ul, ol {
     color: #2e2f42; 
 }
 
-.advantages-list-item{
+.advantages-list{
     font-family: "Roboto", sans-serif;
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 150%;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2%;
     letter-spacing: 0.02em;
-    color: #434455;  
+    color: #2e2f42;  
 }
+
 <!--Section3-->
 .team{
     background-color: #F4F4FD; 
