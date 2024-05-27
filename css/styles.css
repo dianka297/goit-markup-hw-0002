@@ -42,8 +42,8 @@ ul, ol {
     color: #2e2f42;  
 }
 
-.link:hover,
-.link:focus{
+.header-menu-link:hover,
+.header-menu-link:focus{
     color: #404BBF;
 }
 
@@ -52,7 +52,7 @@ ul, ol {
  font-style: normal;
 }
 
-.adress-link{
+.address-link{
     font-family: "Roboto", sans-serif;
     font-weight: 400;
     font-size: 16px;
@@ -61,8 +61,8 @@ ul, ol {
     color: #434455;
 }
 
-.adress-link:hover,
-.adress-link:focus{
+.address-link:hover,
+.address-link:focus{
     color: #404bbf;   
 }
 
@@ -93,7 +93,7 @@ ul, ol {
 }
 
 
-<!--Section2-->
+
 
 .advantages-title{
     font-weight: 500;
@@ -107,12 +107,20 @@ ul, ol {
     font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 20px;
-    line-height: 1.2%;
+    line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;  
 }
 
-<!--Section3-->
+.advantages-list-item{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 120;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+
 .team{
     background-color: #F4F4FD; 
 }
@@ -166,7 +174,7 @@ ul, ol {
     color: #2e2f42;  
 }
 
-.headline-portfolio{
+.title-portfolio{
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
